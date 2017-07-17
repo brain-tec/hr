@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hr (7.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-07-27 23:36+0000\n"
+"POT-Creation-Date: 2017-02-18 02:58+0000\n"
 "PO-Revision-Date: 2015-07-27 23:40+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: German (http://www.transifex.com/oca/OCA-hr-7-0/language/de/)\n"
@@ -20,7 +20,7 @@ msgstr ""
 #. module: hr_policy_accrual
 #: selection:hr.policy.line.accrual,calculation_frequency:0
 msgid "Monthly"
-msgstr ""
+msgstr "Monatlich"
 
 #. module: hr_policy_accrual
 #: field:hr.policy.line.accrual.job,holiday_ids:0
@@ -30,7 +30,7 @@ msgstr ""
 #. module: hr_policy_accrual
 #: selection:hr.policy.line.accrual,frequency_week_day:0
 msgid "Sunday"
-msgstr ""
+msgstr "Sonntag"
 
 #. module: hr_policy_accrual
 #: model:ir.ui.menu,name:hr_policy_accrual.menu_leave_allocation
@@ -93,7 +93,7 @@ msgstr ""
 #. module: hr_policy_accrual
 #: selection:hr.policy.line.accrual,frequency_week_day:0
 msgid "Friday"
-msgstr ""
+msgstr "Freitag"
 
 #. module: hr_policy_accrual
 #: selection:hr.policy.line.accrual,frequency_annual_day:0
@@ -222,7 +222,7 @@ msgstr ""
 #. module: hr_policy_accrual
 #: selection:hr.policy.line.accrual,frequency_annual_month:0
 msgid "December"
-msgstr ""
+msgstr "Dezember"
 
 #. module: hr_policy_accrual
 #: selection:hr.policy.line.accrual,frequency_annual_day:0
@@ -239,7 +239,7 @@ msgstr ""
 #. module: hr_policy_accrual
 #: field:hr.policy.line.accrual,frequency_annual_month:0
 msgid "Month"
-msgstr ""
+msgstr "Monat"
 
 #. module: hr_policy_accrual
 #: field:hr.policy.line.accrual,accrual_rate_premium_minimum:0
@@ -254,7 +254,7 @@ msgstr ""
 #. module: hr_policy_accrual
 #: selection:hr.policy.line.accrual,calculation_frequency:0
 msgid "Weekly"
-msgstr ""
+msgstr "Wöchentlich"
 
 #. module: hr_policy_accrual
 #: view:hr.policy.accrual:0 field:hr.policy.group,accr_policy_ids:0
@@ -292,7 +292,7 @@ msgstr ""
 #. module: hr_policy_accrual
 #: selection:hr.policy.line.accrual,frequency_week_day:0
 msgid "Monday"
-msgstr ""
+msgstr "Montag"
 
 #. module: hr_policy_accrual
 #: field:hr.policy.line.accrual,accrual_rate_premium_milestone:0
@@ -314,7 +314,7 @@ msgstr ""
 #. module: hr_policy_accrual
 #: field:hr.policy.line.accrual.job,name:0
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #. module: hr_policy_accrual
 #: selection:hr.policy.line.accrual,frequency_annual_month:0
@@ -334,7 +334,7 @@ msgstr ""
 #. module: hr_policy_accrual
 #: selection:hr.policy.line.accrual,frequency_week_day:0
 msgid "Wednesday"
-msgstr ""
+msgstr "Mittwoch"
 
 #. module: hr_policy_accrual
 #: field:hr.policy.line.accrual,accrual_rate:0
@@ -436,7 +436,7 @@ msgstr ""
 #. module: hr_policy_accrual
 #: selection:hr.policy.line.accrual,frequency_week_day:0
 msgid "Tuesday"
-msgstr ""
+msgstr "Dienstag"
 
 #. module: hr_policy_accrual
 #: field:hr.policy.line.accrual,calculation_frequency:0
@@ -446,7 +446,7 @@ msgstr ""
 #. module: hr_policy_accrual
 #: selection:hr.policy.line.accrual,frequency_week_day:0
 msgid "Thursday"
-msgstr ""
+msgstr "Donnerstag"
 
 #. module: hr_policy_accrual
 #: model:ir.model,name:hr_policy_accrual.model_hr_policy_group
@@ -516,7 +516,7 @@ msgstr ""
 #. module: hr_policy_accrual
 #: selection:hr.policy.line.accrual,frequency_week_day:0
 msgid "Saturday"
-msgstr ""
+msgstr "Samstag"
 
 #. module: hr_policy_accrual
 #: help:hr.policy.line.accrual,accrual_rate_premium_milestone:0

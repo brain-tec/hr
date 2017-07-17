@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hr (7.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-07-27 23:36+0000\n"
+"POT-Creation-Date: 2017-05-20 02:20+0000\n"
 "PO-Revision-Date: 2015-07-27 23:38+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: French (http://www.transifex.com/oca/OCA-hr-7-0/language/fr/)\n"
@@ -20,7 +20,7 @@ msgstr ""
 #. module: hr_employee_state
 #: selection:hr.employee.termination,state:0
 msgid "Confirmed"
-msgstr ""
+msgstr "Confirmé"
 
 #. module: hr_employee_state
 #: view:hr.contract.end:0
@@ -110,7 +110,7 @@ msgstr ""
 #. module: hr_employee_state
 #: help:hr.employee.termination,message_ids:0
 msgid "Messages and communication history"
-msgstr ""
+msgstr "Historique des messages et communications"
 
 #. module: hr_employee_state
 #: selection:hr.employee,status:0
@@ -127,7 +127,7 @@ msgstr ""
 #. module: hr_employee_state
 #: field:hr.employee.termination,message_unread:0
 msgid "Unread Messages"
-msgstr ""
+msgstr "Messages non-lus"
 
 #. module: hr_employee_state
 #: view:hr.employee.termination:0
@@ -160,12 +160,12 @@ msgstr ""
 #. module: hr_employee_state
 #: field:hr.contract.end,reason_id:0 field:hr.employee.termination,reason_id:0
 msgid "Reason"
-msgstr ""
+msgstr "Motif"
 
 #. module: hr_employee_state
 #: field:hr.employee.termination,message_is_follower:0
 msgid "Is a Follower"
-msgstr ""
+msgstr "Est un abonné"
 
 #. module: hr_employee_state
 #: code:addons/hr_employee_state/hr.py:307
@@ -194,7 +194,7 @@ msgstr ""
 #: view:hr.contract.end:0 field:hr.contract.end,notes:0
 #: view:hr.employee.termination:0 field:hr.employee.termination,notes:0
 msgid "Notes"
-msgstr ""
+msgstr "Commentaires"
 
 #. module: hr_employee_state
 #: view:hr.employee:0
@@ -214,7 +214,7 @@ msgstr "Employés"
 #. module: hr_employee_state
 #: field:hr.employee.termination,message_ids:0
 msgid "Messages"
-msgstr ""
+msgstr "Messages"
 
 #. module: hr_employee_state
 #: field:hr.contract.end,contract_id:0
@@ -225,12 +225,12 @@ msgstr "Contrat"
 #. module: hr_employee_state
 #: field:hr.employee.termination,message_summary:0
 msgid "Summary"
-msgstr ""
+msgstr "Résumé"
 
 #. module: hr_employee_state
 #: selection:hr.employee,status:0
 msgid "Active"
-msgstr ""
+msgstr "Actif"
 
 #. module: hr_employee_state
 #: code:addons/hr_employee_state/hr.py:308
@@ -254,12 +254,12 @@ msgstr ""
 #: selection:hr.employee.termination,state:0
 #: model:mail.message.subtype,description:hr_employee_state.mt_alert_state_cancel
 msgid "Cancelled"
-msgstr ""
+msgstr "Annulé"
 
 #. module: hr_employee_state
 #: help:hr.employee.termination,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr ""
+msgstr "Si coché, les nouveaux messages seront portés à votre attention."
 
 #. module: hr_employee_state
 #: view:hr.employee:0 field:hr.employee,inactive_ids:0
@@ -299,7 +299,7 @@ msgstr ""
 #. module: hr_employee_state
 #: field:hr.employee.termination,name:0
 msgid "Effective Date"
-msgstr ""
+msgstr "Date effective"
 
 #. module: hr_employee_state
 #: view:hr.contract.end:0
@@ -311,17 +311,17 @@ msgstr ""
 msgid ""
 "Holds the Chatter summary (number of messages, ...). This summary is "
 "directly in html format in order to be inserted in kanban views."
-msgstr ""
+msgstr "Contient le résumé de la discussion (nombre de messages, ...). Ce résumé est au format HTML pour permettre son utilisation dans la vue kanban."
 
 #. module: hr_employee_state
 #: selection:hr.employee,status:0
 msgid "Inactive"
-msgstr ""
+msgstr "Inactif"
 
 #. module: hr_employee_state
 #: selection:hr.employee.termination,state:0
 msgid "Done"
-msgstr ""
+msgstr "Terminé"
 
 #. module: hr_employee_state
 #: model:mail.message.subtype,name:hr_employee_state.mt_alert_state_cancel
@@ -341,7 +341,7 @@ msgstr "Annuler"
 #. module: hr_employee_state
 #: field:hr.employee.termination,message_follower_ids:0
 msgid "Followers"
-msgstr ""
+msgstr "Abonnés"
 
 #. module: hr_employee_state
 #: code:addons/hr_employee_state/hr.py:253

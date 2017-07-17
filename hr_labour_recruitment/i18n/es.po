@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hr (7.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-07-27 23:36+0000\n"
+"POT-Creation-Date: 2017-05-13 02:14+0000\n"
 "PO-Revision-Date: 2015-07-27 23:39+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: Spanish (http://www.transifex.com/oca/OCA-hr-7-0/language/es/)\n"
@@ -30,12 +30,12 @@ msgstr ""
 #. module: hr_labour_recruitment
 #: selection:hr.recruitment.request,state:0
 msgid "Confirmed"
-msgstr ""
+msgstr "Confirmado"
 
 #. module: hr_labour_recruitment
 #: view:hr.recruitment.request:0
 msgid "Confirm"
-msgstr ""
+msgstr "Confirmar"
 
 #. module: hr_labour_recruitment
 #: model:mail.message.subtype,description:hr_labour_recruitment.mt_alert_request_approved
@@ -62,12 +62,12 @@ msgstr ""
 #. module: hr_labour_recruitment
 #: view:hr.recruitment.request:0
 msgid "Group By..."
-msgstr ""
+msgstr "Agrupar por..."
 
 #. module: hr_labour_recruitment
 #: field:hr.recruitment.request,state:0
 msgid "State"
-msgstr ""
+msgstr "Estado"
 
 #. module: hr_labour_recruitment
 #: view:hr.recruitment.request:0
@@ -77,12 +77,12 @@ msgstr ""
 #. module: hr_labour_recruitment
 #: field:hr.recruitment.request,message_follower_ids:0
 msgid "Followers"
-msgstr ""
+msgstr "Seguidores"
 
 #. module: hr_labour_recruitment
 #: field:hr.recruitment.request,message_unread:0
 msgid "Unread Messages"
-msgstr ""
+msgstr "Mensajes sin leer"
 
 #. module: hr_labour_recruitment
 #: view:hr.recruitment.request:0 field:hr.recruitment.request,department_id:0
@@ -110,7 +110,7 @@ msgstr ""
 #. module: hr_labour_recruitment
 #: field:hr.recruitment.request,name:0
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #. module: hr_labour_recruitment
 #: code:addons/hr_labour_recruitment/hr_recruitment.py:151
@@ -126,7 +126,7 @@ msgstr ""
 #. module: hr_labour_recruitment
 #: model:ir.ui.menu,name:hr_labour_recruitment.menu_crm_case_categ0_act_job
 msgid "Applications"
-msgstr ""
+msgstr "Aplicaciones"
 
 #. module: hr_labour_recruitment
 #: view:hr.recruitment.request:0 field:hr.recruitment.request,job_id:0
@@ -167,7 +167,7 @@ msgstr ""
 #. module: hr_labour_recruitment
 #: view:hr.recruitment.request:0
 msgid "To Approve"
-msgstr ""
+msgstr "A aprobar"
 
 #. module: hr_labour_recruitment
 #: field:hr.job,max_employees:0 field:hr.recruitment.request,max_number:0
@@ -208,7 +208,7 @@ msgstr ""
 #. module: hr_labour_recruitment
 #: field:hr.recruitment.request,message_ids:0
 msgid "Messages"
-msgstr ""
+msgstr "Mensajes"
 
 #. module: hr_labour_recruitment
 #: model:ir.model,name:hr_labour_recruitment.model_hr_contract
@@ -218,7 +218,7 @@ msgstr ""
 #. module: hr_labour_recruitment
 #: field:hr.recruitment.request,message_summary:0
 msgid "Summary"
-msgstr ""
+msgstr "Resumen"
 
 #. module: hr_labour_recruitment
 #: view:hr.recruitment.request:0 field:hr.recruitment.request,reason:0
@@ -238,7 +238,7 @@ msgstr ""
 #. module: hr_labour_recruitment
 #: selection:hr.recruitment.request,state:0
 msgid "Cancelled"
-msgstr ""
+msgstr "Cancelado"
 
 #. module: hr_labour_recruitment
 #: code:addons/hr_labour_recruitment/hr_recruitment.py:180
@@ -256,12 +256,12 @@ msgstr ""
 #. module: hr_labour_recruitment
 #: view:hr.recruitment.request:0
 msgid "Approve"
-msgstr ""
+msgstr "Aprobar"
 
 #. module: hr_labour_recruitment
 #: help:hr.recruitment.request,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr ""
+msgstr "Si se marca los nuevos mensajes requerirán su atención."
 
 #. module: hr_labour_recruitment
 #: selection:hr.recruitment.request,state:0
@@ -309,12 +309,12 @@ msgstr ""
 msgid ""
 "Holds the Chatter summary (number of messages, ...). This summary is "
 "directly in html format in order to be inserted in kanban views."
-msgstr ""
+msgstr "Contiene el resumen del chatter (nº de mensajes, ...). Este resumen está directamente en formato html para ser insertado en vistas kanban."
 
 #. module: hr_labour_recruitment
 #: view:hr.recruitment.request:0 selection:hr.recruitment.request,state:0
 msgid "Done"
-msgstr ""
+msgstr "Hecho"
 
 #. module: hr_labour_recruitment
 #: model:mail.message.subtype,name:hr_labour_recruitment.mt_alert_request_approved
@@ -324,12 +324,12 @@ msgstr ""
 #. module: hr_labour_recruitment
 #: view:hr.recruitment.request:0
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #. module: hr_labour_recruitment
 #: selection:hr.recruitment.request,state:0
 msgid "Draft"
-msgstr ""
+msgstr "Borrador"
 
 #. module: hr_labour_recruitment
 #: view:hr.recruitment.request:0

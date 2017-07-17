@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hr (7.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-07-27 23:36+0000\n"
+"POT-Creation-Date: 2017-03-11 02:44+0000\n"
 "PO-Revision-Date: 2015-07-27 23:38+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: German (http://www.transifex.com/oca/OCA-hr-7-0/language/de/)\n"
@@ -20,7 +20,7 @@ msgstr ""
 #. module: hr_employee_state
 #: selection:hr.employee.termination,state:0
 msgid "Confirmed"
-msgstr ""
+msgstr "Bestätigt"
 
 #. module: hr_employee_state
 #: view:hr.contract.end:0
@@ -41,7 +41,7 @@ msgstr ""
 #. module: hr_employee_state
 #: view:hr.employee:0 view:hr.employee.termination:0
 msgid "Confirm"
-msgstr ""
+msgstr "Bestätigen"
 
 #. module: hr_employee_state
 #: view:hr.employee.termination:0
@@ -68,12 +68,12 @@ msgstr "Abteilung"
 #. module: hr_employee_state
 #: field:hr.employee.termination,state:0
 msgid "State"
-msgstr ""
+msgstr "Status"
 
 #. module: hr_employee_state
 #: selection:hr.employee.termination,state:0
 msgid "Draft"
-msgstr ""
+msgstr "Entwurf"
 
 #. module: hr_employee_state
 #: selection:hr.employee,status:0
@@ -100,7 +100,7 @@ msgstr ""
 #. module: hr_employee_state
 #: field:hr.employee,status:0
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #. module: hr_employee_state
 #: model:mail.message.subtype,name:hr_employee_state.mt_alert_state_done
@@ -110,7 +110,7 @@ msgstr ""
 #. module: hr_employee_state
 #: help:hr.employee.termination,message_ids:0
 msgid "Messages and communication history"
-msgstr ""
+msgstr "Meldungs- und Kommunikationsverlauf"
 
 #. module: hr_employee_state
 #: selection:hr.employee,status:0
@@ -127,7 +127,7 @@ msgstr ""
 #. module: hr_employee_state
 #: field:hr.employee.termination,message_unread:0
 msgid "Unread Messages"
-msgstr ""
+msgstr "Ungelesene Nachrichten"
 
 #. module: hr_employee_state
 #: view:hr.employee.termination:0
@@ -160,12 +160,12 @@ msgstr ""
 #. module: hr_employee_state
 #: field:hr.contract.end,reason_id:0 field:hr.employee.termination,reason_id:0
 msgid "Reason"
-msgstr ""
+msgstr "Grund"
 
 #. module: hr_employee_state
 #: field:hr.employee.termination,message_is_follower:0
 msgid "Is a Follower"
-msgstr ""
+msgstr "Ist Follower"
 
 #. module: hr_employee_state
 #: code:addons/hr_employee_state/hr.py:307
@@ -183,7 +183,7 @@ msgstr ""
 #. module: hr_employee_state
 #: field:hr.contract.end,date:0
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #. module: hr_employee_state
 #: view:hr.employee:0
@@ -194,7 +194,7 @@ msgstr ""
 #: view:hr.contract.end:0 field:hr.contract.end,notes:0
 #: view:hr.employee.termination:0 field:hr.employee.termination,notes:0
 msgid "Notes"
-msgstr ""
+msgstr "Hinweise"
 
 #. module: hr_employee_state
 #: view:hr.employee:0
@@ -214,7 +214,7 @@ msgstr "Angestellte"
 #. module: hr_employee_state
 #: field:hr.employee.termination,message_ids:0
 msgid "Messages"
-msgstr ""
+msgstr "Nachrichten"
 
 #. module: hr_employee_state
 #: field:hr.contract.end,contract_id:0
@@ -225,7 +225,7 @@ msgstr "Vertrag"
 #. module: hr_employee_state
 #: field:hr.employee.termination,message_summary:0
 msgid "Summary"
-msgstr ""
+msgstr "Zusammenfassung"
 
 #. module: hr_employee_state
 #: selection:hr.employee,status:0
@@ -254,12 +254,12 @@ msgstr ""
 #: selection:hr.employee.termination,state:0
 #: model:mail.message.subtype,description:hr_employee_state.mt_alert_state_cancel
 msgid "Cancelled"
-msgstr ""
+msgstr "Storniert"
 
 #. module: hr_employee_state
 #: help:hr.employee.termination,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr ""
+msgstr "Wenn angehakt, erfordern neue Mitteilungen Ihre Aufmerksamkeit."
 
 #. module: hr_employee_state
 #: view:hr.employee:0 field:hr.employee,inactive_ids:0
@@ -269,7 +269,7 @@ msgstr ""
 #. module: hr_employee_state
 #: view:hr.employee.termination:0
 msgid "Group By..."
-msgstr ""
+msgstr "Gruppiere"
 
 #. module: hr_employee_state
 #: view:hr.employee.termination:0
@@ -311,7 +311,7 @@ msgstr ""
 msgid ""
 "Holds the Chatter summary (number of messages, ...). This summary is "
 "directly in html format in order to be inserted in kanban views."
-msgstr ""
+msgstr "Beinhaltet die Dialogzusammenfassung (Anzahl Mitteilungen, ...). Diese Zusammenfassung liegt in HTML vor, um direkt in Kanban-Ansichten verwendet werden zu können."
 
 #. module: hr_employee_state
 #: selection:hr.employee,status:0
@@ -321,7 +321,7 @@ msgstr ""
 #. module: hr_employee_state
 #: selection:hr.employee.termination,state:0
 msgid "Done"
-msgstr ""
+msgstr "Erledigt"
 
 #. module: hr_employee_state
 #: model:mail.message.subtype,name:hr_employee_state.mt_alert_state_cancel
@@ -336,12 +336,12 @@ msgstr ""
 #. module: hr_employee_state
 #: view:hr.employee.termination:0
 msgid "Cancel"
-msgstr ""
+msgstr "Abbrechen"
 
 #. module: hr_employee_state
 #: field:hr.employee.termination,message_follower_ids:0
 msgid "Followers"
-msgstr ""
+msgstr "Follower"
 
 #. module: hr_employee_state
 #: code:addons/hr_employee_state/hr.py:253

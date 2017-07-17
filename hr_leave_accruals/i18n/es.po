@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hr (7.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-07-27 23:36+0000\n"
+"POT-Creation-Date: 2017-02-18 02:58+0000\n"
 "PO-Revision-Date: 2015-07-27 23:39+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: Spanish (http://www.transifex.com/oca/OCA-hr-7-0/language/es/)\n"
@@ -25,12 +25,12 @@ msgstr ""
 #. module: hr_leave_accruals
 #: view:hr.leave.accrual:0
 msgid "Group By..."
-msgstr ""
+msgstr "Agrupar por..."
 
 #. module: hr_leave_accruals
 #: field:hr.leave.accrual.line,state:0
 msgid "State"
-msgstr ""
+msgstr "Estado"
 
 #. module: hr_leave_accruals
 #: field:hr.holidays,accrual_line_id:0
@@ -59,12 +59,12 @@ msgstr ""
 #. module: hr_leave_accruals
 #: field:hr.leave.accrual.line,description:0
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #. module: hr_leave_accruals
 #: field:hr.leave.accrual,code:0
 msgid "unknown"
-msgstr ""
+msgstr "desconocido"
 
 #. module: hr_leave_accruals
 #: view:hr.holidays.status:0
@@ -90,7 +90,7 @@ msgstr ""
 #. module: hr_leave_accruals
 #: field:hr.leave.accrual.line,date:0
 msgid "Date"
-msgstr ""
+msgstr "Fecha"
 
 #. module: hr_leave_accruals
 #: field:hr.leave.accrual,total_cash:0
@@ -127,7 +127,7 @@ msgstr ""
 #. module: hr_leave_accruals
 #: model:ir.model,name:hr_leave_accruals.model_res_company
 msgid "Companies"
-msgstr ""
+msgstr "Compañías"
 
 #. module: hr_leave_accruals
 #: code:addons/hr_leave_accruals/hr_holidays_status_accrual_line.py:28
@@ -208,7 +208,7 @@ msgstr ""
 #. module: hr_leave_accruals
 #: field:hr.leave.accrual.line,source:0
 msgid "Source"
-msgstr ""
+msgstr "Origen"
 
 #. module: hr_leave_accruals
 #: field:hr.holidays.status.accrual.line,salary_rule_id:0

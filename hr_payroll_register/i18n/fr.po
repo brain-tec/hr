@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hr (7.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-07-27 23:36+0000\n"
+"POT-Creation-Date: 2017-02-18 02:58+0000\n"
 "PO-Revision-Date: 2015-07-27 23:39+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: French (http://www.transifex.com/oca/OCA-hr-7-0/language/fr/)\n"
@@ -67,7 +67,7 @@ msgstr ""
 #. module: hr_payroll_register
 #: report:hr.payroll.register.payslips:0 report:hr.payroll.register.summary:0
 msgid "Other"
-msgstr ""
+msgstr "Autre"
 
 #. module: hr_payroll_register
 #: selection:hr.payroll.register,state:0
@@ -265,7 +265,7 @@ msgstr ""
 #: code:addons/hr_payroll_register/wizard/hr_payroll_register_run.py:60
 #, python-format
 msgid "Warning !"
-msgstr ""
+msgstr "Attention !"
 
 #. module: hr_payroll_register
 #: model:ir.model,name:hr_payroll_register.model_hr_payroll_register_run
@@ -285,7 +285,7 @@ msgstr ""
 #. module: hr_payroll_register
 #: report:hr.payroll.register.summary:0
 msgid "Total"
-msgstr ""
+msgstr "Total"
 
 #. module: hr_payroll_register
 #: report:hr.payroll.register.summary:0
@@ -356,7 +356,7 @@ msgstr "Annuler"
 #. module: hr_payroll_register
 #: selection:hr.payroll.register,state:0
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 #. module: hr_payroll_register
 #: report:hr.payroll.register.summary:0
@@ -371,7 +371,7 @@ msgstr ""
 #. module: hr_payroll_register
 #: report:hr.payroll.register.payslips:0
 msgid "Transport"
-msgstr ""
+msgstr "Transport"
 
 #. module: hr_payroll_register
 #: field:hr.payroll.register,date_start:0

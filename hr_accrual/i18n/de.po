@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hr (7.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-07-27 23:36+0000\n"
+"POT-Creation-Date: 2017-02-04 02:21+0000\n"
 "PO-Revision-Date: 2015-07-27 23:36+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: German (http://www.transifex.com/oca/OCA-hr-7-0/language/de/)\n"
@@ -26,7 +26,7 @@ msgstr "Name"
 #: view:hr.accrual:0 field:hr.accrual.line,accrual_id:0
 #: model:ir.model,name:hr_accrual.model_hr_accrual
 msgid "Accrual"
-msgstr ""
+msgstr "Abgrenzung"
 
 #. module: hr_accrual
 #: model:ir.model,name:hr_accrual.model_hr_accrual_line
@@ -46,7 +46,7 @@ msgstr "Angestellter"
 #. module: hr_accrual
 #: field:hr.accrual.line,amount:0
 msgid "Amount"
-msgstr ""
+msgstr "Betrag"
 
 #. module: hr_accrual
 #: view:hr.accrual:0 field:hr.accrual,line_ids:0
@@ -56,7 +56,7 @@ msgstr ""
 #. module: hr_accrual
 #: field:hr.accrual.line,date:0
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #. module: hr_accrual
 #: model:ir.actions.act_window,name:hr_accrual.open_accrual

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hr (7.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-07-27 23:36+0000\n"
+"POT-Creation-Date: 2017-03-18 02:41+0000\n"
 "PO-Revision-Date: 2015-07-27 23:36+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: German (http://www.transifex.com/oca/OCA-hr-7-0/language/de/)\n"
@@ -25,7 +25,7 @@ msgstr ""
 #. module: hr_contract_state
 #: view:hr.contract:0
 msgid "Confirm"
-msgstr ""
+msgstr "Bestätigen"
 
 #. module: hr_contract_state
 #: model:mail.message.subtype,name:hr_contract_state.mt_alert_contract_ending
@@ -35,7 +35,7 @@ msgstr ""
 #. module: hr_contract_state
 #: field:hr.contract,message_follower_ids:0
 msgid "Followers"
-msgstr ""
+msgstr "Follower"
 
 #. module: hr_contract_state
 #: view:hr.contract:0
@@ -56,7 +56,7 @@ msgstr ""
 #: view:hr.employee:0
 #: model:ir.ui.menu,name:hr_contract_state.submenu_hr_contracts
 msgid "Contracts"
-msgstr ""
+msgstr "Verträge"
 
 #. module: hr_contract_state
 #: model:ir.actions.act_window,name:hr_contract_state.open_expiring_contracts
@@ -76,7 +76,7 @@ msgstr ""
 #. module: hr_contract_state
 #: help:hr.contract,message_ids:0
 msgid "Messages and communication history"
-msgstr ""
+msgstr "Meldungs- und Kommunikationsverlauf"
 
 #. module: hr_contract_state
 #: view:hr.contract:0
@@ -88,7 +88,7 @@ msgstr ""
 #. module: hr_contract_state
 #: field:hr.contract,message_is_follower:0
 msgid "Is a Follower"
-msgstr ""
+msgstr "Ist Follower"
 
 #. module: hr_contract_state
 #: model:mail.message.subtype,description:hr_contract_state.mt_alert_open
@@ -104,7 +104,7 @@ msgstr ""
 #. module: hr_contract_state
 #: field:hr.contract,message_ids:0
 msgid "Messages"
-msgstr ""
+msgstr "Nachrichten"
 
 #. module: hr_contract_state
 #: model:ir.actions.act_window,help:hr_contract_state.open_draft_contracts
@@ -123,7 +123,7 @@ msgstr "Vertrag"
 #. module: hr_contract_state
 #: field:hr.contract,message_summary:0
 msgid "Summary"
-msgstr ""
+msgstr "Zusammenfassung"
 
 #. module: hr_contract_state
 #: constraint:hr.contract:0
@@ -148,7 +148,7 @@ msgstr ""
 #. module: hr_contract_state
 #: help:hr.contract,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr ""
+msgstr "Wenn angehakt, erfordern neue Mitteilungen Ihre Aufmerksamkeit."
 
 #. module: hr_contract_state
 #: model:mail.message.subtype,description:hr_contract_state.mt_alert_contract_ending
@@ -158,14 +158,14 @@ msgstr ""
 #. module: hr_contract_state
 #: field:hr.contract,message_unread:0
 msgid "Unread Messages"
-msgstr ""
+msgstr "Ungelesene Nachrichten"
 
 #. module: hr_contract_state
 #: help:hr.contract,message_summary:0
 msgid ""
 "Holds the Chatter summary (number of messages, ...). This summary is "
 "directly in html format in order to be inserted in kanban views."
-msgstr ""
+msgstr "Beinhaltet die Dialogzusammenfassung (Anzahl Mitteilungen, ...). Diese Zusammenfassung liegt in HTML vor, um direkt in Kanban-Ansichten verwendet werden zu können."
 
 #. module: hr_contract_state
 #: model:mail.message.subtype,description:hr_contract_state.mt_alert_trial_ending

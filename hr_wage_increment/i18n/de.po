@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hr (7.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-07-27 23:36+0000\n"
+"POT-Creation-Date: 2017-02-18 02:58+0000\n"
 "PO-Revision-Date: 2015-07-27 23:41+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: German (http://www.transifex.com/oca/OCA-hr-7-0/language/de/)\n"
@@ -26,7 +26,7 @@ msgstr ""
 #: selection:hr.contract.wage.increment,state:0
 #: selection:hr.contract.wage.increment.run,state:0
 msgid "Confirmed"
-msgstr ""
+msgstr "Bestätigt"
 
 #. module: hr_wage_increment
 #: view:wage.adjustment.employees:0
@@ -43,7 +43,7 @@ msgstr ""
 #. module: hr_wage_increment
 #: view:hr.contract.wage.increment:0 view:hr.contract.wage.increment.run:0
 msgid "Confirm"
-msgstr ""
+msgstr "Bestätigen"
 
 #. module: hr_wage_increment
 #: code:addons/hr_wage_increment/wage_increment.py:384
@@ -91,13 +91,13 @@ msgstr "Angestellte"
 #: view:hr.contract.wage.increment.run:0
 #: field:hr.contract.wage.increment.run,state:0
 msgid "State"
-msgstr ""
+msgstr "Status"
 
 #. module: hr_wage_increment
 #: selection:hr.contract.wage.increment,state:0
 #: selection:hr.contract.wage.increment.run,state:0
 msgid "Draft"
-msgstr ""
+msgstr "Entwurf"
 
 #. module: hr_wage_increment
 #: field:hr.contract.wage.increment.run,name:0
@@ -232,7 +232,7 @@ msgstr ""
 #. module: hr_wage_increment
 #: view:hr.contract.wage.increment.run:0
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #. module: hr_wage_increment
 #: view:hr.contract.wage.increment.run:0
@@ -253,7 +253,7 @@ msgstr ""
 #. module: hr_wage_increment
 #: selection:hr.contract.wage.increment.run,type:0
 msgid "Final Amount"
-msgstr ""
+msgstr "Endsumme"
 
 #. module: hr_wage_increment
 #: code:addons/hr_wage_increment/wage_increment.py:525
@@ -326,7 +326,7 @@ msgstr ""
 #: code:addons/hr_wage_increment/wage_increment.py:524
 #, python-format
 msgid "Error"
-msgstr ""
+msgstr "Fehler"
 
 #. module: hr_wage_increment
 #: model:ir.actions.act_window,name:hr_wage_increment.action_wage_adjustment_by_employees
@@ -369,7 +369,7 @@ msgstr ""
 #. module: hr_wage_increment
 #: view:hr.contract.wage.increment:0 view:hr.contract.wage.increment.run:0
 msgid "Group By..."
-msgstr ""
+msgstr "Gruppiere"
 
 #. module: hr_wage_increment
 #: view:hr.contract.wage.increment.run:0
@@ -415,7 +415,7 @@ msgstr ""
 #. module: hr_wage_increment
 #: view:hr.contract.wage.increment:0 view:hr.contract.wage.increment.run:0
 msgid "Done"
-msgstr ""
+msgstr "Erledigt"
 
 #. module: hr_wage_increment
 #: code:addons/hr_wage_increment/wage_increment.py:244
