@@ -3,14 +3,16 @@
 # * hr_contract_hourly_rate
 # 
 # Translators:
+# Rudolf Schnapka <rs@techno-flex.de>, 2017
 # Thomas A. Jaeger, 2015
+# Renzo Meister, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: hr (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-06 00:27+0000\n"
-"PO-Revision-Date: 2015-11-05 13:48+0000\n"
-"Last-Translator: Thomas A. Jaeger\n"
+"POT-Creation-Date: 2017-03-28 03:11+0000\n"
+"PO-Revision-Date: 2017-04-19 11:44+0000\n"
+"Last-Translator: Rudolf Schnapka <rs@techno-flex.de>\n"
 "Language-Team: German (http://www.transifex.com/oca/OCA-hr-8-0/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -54,6 +56,12 @@ msgid "Created on"
 msgstr "Angelegt am"
 
 #. module: hr_contract_hourly_rate
+#: field:hr.hourly.rate,display_name:0
+#: field:hr.hourly.rate.class,display_name:0
+msgid "Display Name"
+msgstr "Anzeigename"
+
+#. module: hr_contract_hourly_rate
 #: field:hr.hourly.rate,date_end:0
 msgid "End Date"
 msgstr "Enddatum"
@@ -70,6 +78,11 @@ msgstr "Fehler! Mindestens ein Arbeitsplatz unter Vertrag hat keine zugeordnete 
 #, python-format
 msgid "Error! You cannot have overlapping rates"
 msgstr "Fehler! Sie dürfen keine Überschneidungen bei den Stundensätzen haben"
+
+#. module: hr_contract_hourly_rate
+#: field:hr.contract.job,hourly_rate:0
+msgid "Hourly Rate"
+msgstr "Stundensatz"
 
 #. module: hr_contract_hourly_rate
 #: field:hr.contract.job,hourly_rate_class_id:0
@@ -110,6 +123,12 @@ msgstr "Stundenlohnklasse"
 #: field:hr.hourly.rate,id:0 field:hr.hourly.rate.class,id:0
 msgid "ID"
 msgstr "ID"
+
+#. module: hr_contract_hourly_rate
+#: field:hr.hourly.rate,__last_update:0
+#: field:hr.hourly.rate.class,__last_update:0
+msgid "Last Modified on"
+msgstr "Zuletzt geändert am"
 
 #. module: hr_contract_hourly_rate
 #: field:hr.hourly.rate,write_uid:0 field:hr.hourly.rate.class,write_uid:0

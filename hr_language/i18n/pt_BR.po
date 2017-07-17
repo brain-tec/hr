@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hr (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-20 18:46+0000\n"
-"PO-Revision-Date: 2015-07-27 23:44+0000\n"
-"Last-Translator: <>\n"
+"POT-Creation-Date: 2016-09-17 13:09+0000\n"
+"PO-Revision-Date: 2016-10-04 09:43+0000\n"
+"Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/oca/OCA-hr-8-0/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -49,6 +49,11 @@ msgstr ""
 
 #. module: hr_language
 #: selection:hr.language,name:0
+msgid "Burmese / မြန်မာဘာသာ"
+msgstr ""
+
+#. module: hr_language
+#: selection:hr.language,name:0
 msgid "Catalan / Català"
 msgstr ""
 
@@ -75,7 +80,7 @@ msgstr "Criado por"
 #. module: hr_language
 #: field:hr.language,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Criado em"
 
 #. module: hr_language
 #: selection:hr.language,name:0
@@ -95,7 +100,12 @@ msgstr ""
 #. module: hr_language
 #: field:hr.language,description:0
 msgid "Description"
-msgstr ""
+msgstr "Descrição"
+
+#. module: hr_language
+#: field:hr.language,display_name:0
+msgid "Display Name"
+msgstr "Nome para Mostrar"
 
 #. module: hr_language
 #: selection:hr.language,name:0
@@ -111,7 +121,7 @@ msgstr ""
 #: field:hr.language,employee_id:0
 #: model:ir.model,name:hr_language.model_hr_employee
 msgid "Employee"
-msgstr ""
+msgstr "Empregado"
 
 #. module: hr_language
 #: selection:hr.language,name:0
@@ -170,6 +180,11 @@ msgstr ""
 
 #. module: hr_language
 #: selection:hr.language,name:0
+msgid "German (CH) / Deutsch (CH)"
+msgstr ""
+
+#. module: hr_language
+#: selection:hr.language,name:0
 msgid "German / Deutsch"
 msgstr ""
 
@@ -201,7 +216,7 @@ msgstr ""
 #. module: hr_language
 #: field:hr.language,id:0
 msgid "ID"
-msgstr ""
+msgstr "Identificação"
 
 #. module: hr_language
 #: selection:hr.language,name:0
@@ -234,6 +249,7 @@ msgid "Korean (KR) / 한국어 (KR)"
 msgstr ""
 
 #. module: hr_language
+#: view:hr.employee:hr_language.view_employee_form
 #: view:hr.language:hr_language.view_language_form field:hr.language,name:0
 msgid "Language"
 msgstr ""
@@ -253,14 +269,19 @@ msgid "Lao / ພາສາລາວ"
 msgstr ""
 
 #. module: hr_language
+#: field:hr.language,__last_update:0
+msgid "Last Modified on"
+msgstr "Última atualização em"
+
+#. module: hr_language
 #: field:hr.language,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Última atualização por"
 
 #. module: hr_language
 #: field:hr.language,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Última atualização em"
 
 #. module: hr_language
 #: selection:hr.language,name:0

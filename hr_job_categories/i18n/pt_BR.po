@@ -3,13 +3,14 @@
 # * hr_job_categories
 # 
 # Translators:
+# danimaribeiro <danimaribeiro@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: hr (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-20 18:46+0000\n"
-"PO-Revision-Date: 2015-07-27 23:44+0000\n"
-"Last-Translator: <>\n"
+"POT-Creation-Date: 2016-03-11 01:48+0000\n"
+"PO-Revision-Date: 2016-03-08 03:19+0000\n"
+"Last-Translator: danimaribeiro <danimaribeiro@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/oca/OCA-hr-8-0/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,9 +31,9 @@ msgstr "Contrato"
 #. module: hr_job_categories
 #: model:ir.model,name:hr_job_categories.model_hr_job
 msgid "Job Position"
-msgstr ""
+msgstr "Cargo"
 
 #. module: hr_job_categories
 #: view:hr.job:hr_job_categories.view_job_form
 msgid "e.g. Part Time"
-msgstr ""
+msgstr "ex. Meio período"
