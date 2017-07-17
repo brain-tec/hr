@@ -1,4 +1,4 @@
-# -*- coding:utf-8 -*-
+# -*- coding: utf-8 -*-
 ##############################################################################
 #
 #    Copyright (C) 2014 Savoir-faire Linux. All Rights Reserved.
@@ -19,6 +19,7 @@
 #
 ##############################################################################
 
+import openerp.tests
 from openerp.tests.common import TransactionCase
 
 
@@ -65,7 +66,7 @@ class TestEmployeeFirstname(TransactionCase):
         in firstname and lastname
         """
         # Check for employee10
-        self.assertEqual(self.employee10_id.firstname, "Jan")
+        self.assertEqual(self.employee10_id.firstname, 'Jan')
         self.assertEqual(self.employee10_id.lastname, 'Van-Eyck')
 
         # Check for employee20
@@ -109,3 +110,11 @@ class TestEmployeeFirstname(TransactionCase):
         self.employee1_id.refresh()
 
         self.assertEqual(self.employee1_id.name, 'Carnaud Jean-Pierre')
+
+    @openerp.tests.common.at_install(False)
+    @openerp.tests.common.post_install(True)
+    def test_update_name_post_install(self):
+        self.empl_demo = self.env.ref('hr.employee_fp')
+
+        self.assertEqual(self.empl_demo.firstname, 'Parker')
+        self.assertEqual(self.empl_demo.lastname, 'Pieter')
