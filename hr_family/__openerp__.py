@@ -21,7 +21,5 @@
         'views/hr_children.xml',
         'views/hr_employee.xml',
     ],
-    'test': [
-    ],
-    'installable': False,
+    'installable': True,
 }

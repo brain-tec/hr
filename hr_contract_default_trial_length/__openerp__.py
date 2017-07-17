@@ -32,10 +32,5 @@
     "data": [
         'views/hr_contract_type.xml',
     ],
-    "auto_install": False,
     'installable': False,
-    "application": False,
-    "external_dependencies": {
-        'python': [],
-    },
 }
