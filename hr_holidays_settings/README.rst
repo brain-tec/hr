@@ -2,38 +2,24 @@
    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
    :alt: License: AGPL-3
 
-=============================
-HR Worked Days From Timesheet
-=============================
+====================
+HR Holidays Settings
+====================
 
-This module allow you to automatically fill the 'Worked Days' of payslips with
-the information of each employee's timesheets for the payslip's period.
-
-Installation
-============
-
-To install this module, you need to:
-
-* clone the branch 10.0 of the repository https://github.com/OCA/hr
-* add the path to this repository in your configuration (addons-path)
-* update the module list
-* search for "HR Worked Days From Timesheet" in your addons
-* install the module
+This module adds a Settings form in the menu of Leaves (HR Holidays module).
+This settings are empty by default but enable other modules to be able to extend it.
 
 Usage
 =====
 
 To use this module, you need to:
 
-#. Go to 'Payroll > Employee Payslips'.
-#. Open a draft payslip.
-#. In 'Worked Days' section click on 'Import from Timesheets' button.
-
+#. Go to *Leaves > Configuration > Settings*.
 
 .. image:: https://odoo-community.org/website/image/ir.attachment/5784_f2813bd/datas
    :alt: Try me on Runbot
    :target: https://runbot.odoo-community.org/runbot/116/10.0
-   
+
 Bug Tracker
 ===========
 
@@ -45,15 +31,15 @@ help us smash it by providing detailed and welcomed feedback.
 Credits
 =======
 
-Contributors
---------------
+Images
+------
 
-* David Dufresne <david.dufresne@savoirfairelinux.com>
-* Pierre Lamarche <pierre.lamarche@savoirfairelinux.com>
-* Ignacio Ibeas <ignacio@acysos.com>
-* OpenSynergy Indonesia <https://opensynergy-indonesia.com>
-* Lois Rilo Antelo <lois.rilo@eficent.com>
-* Serpent Consulting Services Pvt. Ltd. <support@serpentcs.com>
+* Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
+
+Contributors
+------------
+
+* Miquel Raïch <miquel.raich@eficent.com>
 
 Maintainer
 ----------
