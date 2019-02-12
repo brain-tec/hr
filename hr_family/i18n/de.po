@@ -24,7 +24,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:hr_family.field_hr_employee_fam_children_ids
 #: model:ir.ui.view,arch_db:hr_family.hr_employee_view_form
 msgid "Children"
-msgstr "Untergeordnete"
+msgstr "Kinder"
 
 #. module: hr_family
 #: model:ir.model.fields,field_description:hr_family.field_hr_employee_children_create_uid
