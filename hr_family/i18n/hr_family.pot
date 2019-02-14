@@ -14,134 +14,123 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_fam_children_ids
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee__fam_children_ids
 #: model:ir.ui.view,arch_db:hr_family.hr_employee_view_form
 msgid "Children"
-msgstr ""
+msgstr "Kinder"
 
 #. module: hr_family
 #: model:ir.model.fields,field_description:hr_family.field_hr_employee_children_create_uid
 msgid "Created by"
-msgstr ""
+msgstr "Erstellt von"
 
 #. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_children_create_date
-msgid "Created on"
-msgstr ""
-
-#. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_children_date_of_birth
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee_children__date_of_birth
 msgid "Date of Birth"
-msgstr ""
-
-#. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_children_display_name
-msgid "Display Name"
-msgstr ""
+msgstr "Geburtsdatum"
 
 #. module: hr_family
 #: model:ir.model,name:hr_family.model_hr_employee
 #: model:ir.model.fields,field_description:hr_family.field_hr_employee_children_employee_id
 msgid "Employee"
-msgstr ""
+msgstr "Angestellte(r)"
 
 #. module: hr_family
 #: model:ir.ui.view,arch_db:hr_family.hr_children_view_tree
 msgid "Employee Children"
-msgstr ""
+msgstr "Mitarbeiter Kinder"
 
 #. module: hr_family
 #: model:ir.ui.view,arch_db:hr_family.hr_employee_view_form
 msgid "Family"
-msgstr ""
+msgstr "Familie"
 
 #. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_fam_father_date_of_birth
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee__fam_father_date_of_birth
 msgid "Father Date of Birth"
-msgstr ""
+msgstr "Todestag des Vaters"
 
 #. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_fam_father
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee__fam_father
 msgid "Father's Name"
-msgstr ""
+msgstr "Name des Vaters"
 
 #. module: hr_family
 #: selection:hr.employee.children,gender:0
 msgid "Female"
-msgstr ""
+msgstr "Weiblich"
 
 #. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_children_gender
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee_children__gender
 msgid "Gender"
-msgstr ""
+msgstr "Geschlecht"
 
 #. module: hr_family
 #: model:ir.model,name:hr_family.model_hr_employee_children
 msgid "HR Employee Children"
-msgstr ""
+msgstr "HR Mitarbeiter Kinder"
 
 #. module: hr_family
 #: model:ir.model.fields,field_description:hr_family.field_hr_employee_children_id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: hr_family
 #: model:ir.model.fields,field_description:hr_family.field_hr_employee_children___last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Zuletzt geändert am"
 
 #. module: hr_family
 #: model:ir.model.fields,field_description:hr_family.field_hr_employee_children_write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Zuletzt aktualisiert von"
 
 #. module: hr_family
 #: model:ir.model.fields,field_description:hr_family.field_hr_employee_children_write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Zuletzt aktualisiert am"
 
 #. module: hr_family
 #: selection:hr.employee.children,gender:0
 msgid "Male"
-msgstr ""
+msgstr "Männlich"
 
 #. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_fam_mother_date_of_birth
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee__fam_mother_date_of_birth
 msgid "Mother Date of Birth"
-msgstr ""
+msgstr "Todestag der Mutter"
 
 #. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_fam_mother
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee__fam_mother
 msgid "Mother's Name"
-msgstr ""
+msgstr "Name der Mutter"
 
 #. module: hr_family
 #: model:ir.model.fields,field_description:hr_family.field_hr_employee_children_name
 msgid "Name"
-msgstr ""
+msgstr "Vorname(n)"
 
 #. module: hr_family
 #: model:ir.ui.view,arch_db:hr_family.hr_employee_view_form
 msgid "Parents"
-msgstr ""
+msgstr "Eltern"
 
 #. module: hr_family
 #: model:ir.ui.view,arch_db:hr_family.hr_employee_view_form
 msgid "Spouse"
-msgstr ""
+msgstr "Ehepartner"
 
 #. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_fam_spouse
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee__fam_spouse
 msgid "Spouse's Name"
-msgstr ""
+msgstr "Ehepartner Name"
 
 #. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_fam_spouse_tel
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee__fam_spouse_tel
 msgid "Spouse's Telephone"
-msgstr ""
+msgstr "Telefon (Ehepartner)"
 
 #. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_fam_spouse_employer
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee__fam_spouse_employer
 msgid "Spouses's Employer"
-msgstr ""
-
+msgstr "Arbeitgeber Ehepartner"

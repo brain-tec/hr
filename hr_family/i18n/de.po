@@ -21,7 +21,7 @@ msgstr ""
 "X-Generator: Weblate 3.3\n"
 
 #. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_fam_children_ids
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee__fam_children_ids
 #: model:ir.ui.view,arch_db:hr_family.hr_employee_view_form
 msgid "Children"
 msgstr "Kinder"
@@ -37,9 +37,9 @@ msgid "Created on"
 msgstr "Erstellt am"
 
 #. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_children_date_of_birth
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee_children__date_of_birth
 msgid "Date of Birth"
-msgstr "Geburtstag"
+msgstr "Geburtsdatum"
 
 #. module: hr_family
 #: model:ir.model.fields,field_description:hr_family.field_hr_employee_children_display_name
@@ -63,12 +63,12 @@ msgid "Family"
 msgstr "Familie"
 
 #. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_fam_father_date_of_birth
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee__fam_father_date_of_birth
 msgid "Father Date of Birth"
-msgstr "Geburtstag des Vaters"
+msgstr "Todestag des Vaters"
 
 #. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_fam_father
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee__fam_father
 msgid "Father's Name"
 msgstr "Name des Vaters"
 
@@ -78,7 +78,7 @@ msgid "Female"
 msgstr "Weiblich"
 
 #. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_children_gender
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee_children__gender
 msgid "Gender"
 msgstr "Geschlecht"
 
@@ -113,19 +113,19 @@ msgid "Male"
 msgstr "Männlich"
 
 #. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_fam_mother_date_of_birth
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee__fam_mother_date_of_birth
 msgid "Mother Date of Birth"
-msgstr "Geburtstag der Mutter"
+msgstr "Todestag der Mutter"
 
 #. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_fam_mother
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee__fam_mother
 msgid "Mother's Name"
 msgstr "Name der Mutter"
 
 #. module: hr_family
 #: model:ir.model.fields,field_description:hr_family.field_hr_employee_children_name
 msgid "Name"
-msgstr "Bezeichnung"
+msgstr "Vorname(n)"
 
 #. module: hr_family
 #: model:ir.ui.view,arch_db:hr_family.hr_employee_view_form
@@ -138,16 +138,16 @@ msgid "Spouse"
 msgstr "Ehepartner"
 
 #. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_fam_spouse
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee__fam_spouse
 msgid "Spouse's Name"
-msgstr "Name des Ehepartners"
+msgstr "Ehepartner Name"
 
 #. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_fam_spouse_tel
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee__fam_spouse_tel
 msgid "Spouse's Telephone"
-msgstr "Telefonnummer des Ehepartners"
+msgstr "Telefon (Ehepartner)"
 
 #. module: hr_family
-#: model:ir.model.fields,field_description:hr_family.field_hr_employee_fam_spouse_employer
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee__fam_spouse_employer
 msgid "Spouses's Employer"
-msgstr "Arbeitgeber des Ehepartners"
+msgstr "Arbeitgeber Ehepartner"
