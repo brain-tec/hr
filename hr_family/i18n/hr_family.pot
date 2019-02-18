@@ -15,7 +15,7 @@ msgstr ""
 
 #. module: hr_family
 #: model:ir.model.fields,field_description:hr_family.field_hr_employee__fam_children_ids
-#: model:ir.ui.view,arch_db:hr_family.hr_employee_view_form
+#: model_terms:ir.ui.view,arch_db:hr_family.hr_employee_view_form
 msgid "Children"
 msgstr "Kinder"
 
@@ -25,9 +25,19 @@ msgid "Created by"
 msgstr "Erstellt von"
 
 #. module: hr_family
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee_children_create_date
+msgid "Created on"
+msgstr "Erstellt am"
+
+#. module: hr_family
 #: model:ir.model.fields,field_description:hr_family.field_hr_employee_children__date_of_birth
 msgid "Date of Birth"
 msgstr "Geburtsdatum"
+
+#. module: hr_family
+#: model:ir.model.fields,field_description:hr_family.field_hr_employee_children_display_name
+msgid "Display Name"
+msgstr "Anzeigename"
 
 #. module: hr_family
 #: model:ir.model,name:hr_family.model_hr_employee
@@ -41,9 +51,14 @@ msgid "Employee Children"
 msgstr "Mitarbeiter Kinder"
 
 #. module: hr_family
-#: model:ir.ui.view,arch_db:hr_family.hr_employee_view_form
+#: model_terms:ir.ui.view,arch_db:hr_family.hr_employee_view_form
 msgid "Family"
 msgstr "Familie"
+
+#. module: hr_family
+#: model_terms:ir.ui.view,arch_db:hr_family.hr_employee_view_form
+msgid "Family"
+msgstr "Familien Informationen"
 
 #. module: hr_family
 #: model:ir.model.fields,field_description:hr_family.field_hr_employee__fam_father_date_of_birth
@@ -111,7 +126,7 @@ msgid "Name"
 msgstr "Vorname(n)"
 
 #. module: hr_family
-#: model:ir.ui.view,arch_db:hr_family.hr_employee_view_form
+#: model_terms:ir.ui.view,arch_db:hr_family.hr_employee_view_form
 msgid "Parents"
 msgstr "Eltern"
 
