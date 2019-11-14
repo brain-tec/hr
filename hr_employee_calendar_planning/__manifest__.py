@@ -3,7 +3,7 @@
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
 {
     "name": "Employee Calendar Planning",
-    "version": "10.0.1.0.0",
+    "version": "10.0.1.1.0",
     "category": "Human Resources",
     "website": "https://github.com/OCA/hr",
     "author": "Tecnativa, "
@@ -16,6 +16,7 @@
     "data": [
         "security/ir.model.access.csv",
         "views/hr_employee_views.xml",
+        "wizards/wizard_employee_calendar_views.xml",
     ],
     "post_init_hook": "post_init_hook",
 }
