@@ -3,7 +3,7 @@
 
 {
     'name': 'HR Attendance Auto Close',
-    'version': '11.0.1.1.1',
+    'version': '11.0.1.2.0',
     'category': 'Human Resources',
     'summary': 'Close stale Attendances',
     'website': 'https://github.com/OCA/hr',
@@ -14,6 +14,7 @@
         'hr_attendance_reason',
     ],
     'data': [
+        'views/hr_employee.xml',
         'data/hr_attendance_reason.xml',
         'data/hr_attendance.xml',
         'views/hr_attendance_view.xml',
