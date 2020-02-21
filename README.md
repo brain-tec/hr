@@ -27,6 +27,7 @@ addon | version | summary
 [hr_employee_birth_name](hr_employee_birth_name/) | 10.0.1.0.0 | Employee Birth Name
 [hr_employee_calendar_planning](hr_employee_calendar_planning/) | 10.0.1.1.0 | Employee Calendar Planning
 [hr_employee_category_parent](hr_employee_category_parent/) | 10.0.1.0.0 | Categorize your employee categories
+[hr_employee_data_from_work_address](hr_employee_data_from_work_address/) | 10.0.1.0.0 | Update user's and partner's data fields from employee record
 [hr_employee_firstname](hr_employee_firstname/) | 10.0.1.1.0 | Adds First Name to Employee
 [hr_employee_id](hr_employee_id/) | 10.0.1.1.0 | Employee ID
 [hr_employee_legacy_id](hr_employee_legacy_id/) | 10.0.1.0.0 | Legacy Employee ID
@@ -51,7 +52,7 @@ addon | version | summary
 [hr_payroll_cancel](hr_payroll_cancel/) | 10.0.1.0.1 | Hr Payroll Cancel
 [hr_payslip_change_state](hr_payslip_change_state/) | 10.0.1.0.0 | Change the state of many payslips at a time
 [hr_period](hr_period/) | 10.0.1.1.0 | Add payroll periods
-[hr_public_holidays](hr_public_holidays/) | 10.0.1.1.0 | Manage Public Holidays
+[hr_public_holidays](hr_public_holidays/) | 10.0.1.2.0 | Manage Public Holidays
 [hr_recruitment_candidate_multi_applicant](hr_recruitment_candidate_multi_applicant/) | 10.0.1.0.0 | Applications
 [hr_recruitment_skill](hr_recruitment_skill/) | 10.0.1.0.0 | Add skills on job position
 [hr_skill](hr_skill/) | 10.0.1.0.0 | Skill Management
@@ -68,7 +69,6 @@ addon | version | summary
 [hr_contract_state](hr_contract_state/) | 1.0 (unported) | Manage Employee Contracts
 [hr_department_sequence](hr_department_sequence/) | 1.0 (unported) | Add sequence on department
 [hr_employee_benefit](hr_employee_benefit/) | 8.0.1.0.0 (unported) | Employee Benefit
-[hr_employee_data_from_work_address](hr_employee_data_from_work_address/) | 8.0.1.0.0 (unported) | Update user's and partner's data fields from employee record
 [hr_employee_gravatar](hr_employee_gravatar/) | 8.0.1.0.0 (unported) | Employees Synchronize Gravatar image
 [hr_employee_reference](hr_employee_reference/) | 8.0.1.0.0 (unported) | Manage employee references
 [hr_expense_account_period](hr_expense_account_period/) | 8.0.0.1.0 (unported) | Accounting period for HR expenses journal entries
