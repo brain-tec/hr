@@ -11,6 +11,8 @@ setuptools.setup(
         'odoo14-addon-hr_branch',
         'odoo14-addon-hr_employee_firstname',
         'odoo14-addon-hr_employee_lastnames',
+        'odoo14-addon-hr_employee_relative',
+        'odoo14-addon-hr_employee_service',
     ],
     classifiers=[
         'Programming Language :: Python',
