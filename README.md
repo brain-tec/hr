@@ -1,14 +1,15 @@
 
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/hr&target_branch=14.0)
-[![Build Status](https://travis-ci.com/OCA/hr.svg?branch=14.0)](https://travis-ci.com/OCA/hr)
+[![Pre-commit Status](https://github.com/OCA/hr/actions/workflows/pre-commit.yml/badge.svg?branch=14.0)](https://github.com/OCA/hr/actions/workflows/pre-commit.yml?query=branch%3A14.0)
+[![Build Status](https://github.com/OCA/hr/actions/workflows/test.yml/badge.svg?branch=14.0)](https://github.com/OCA/hr/actions/workflows/test.yml?query=branch%3A14.0)
 [![codecov](https://codecov.io/gh/OCA/hr/branch/14.0/graph/badge.svg)](https://codecov.io/gh/OCA/hr)
 [![Translation Status](https://translation.odoo-community.org/widgets/hr-14-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/hr-14-0/?utm_source=widget)
 
 <!-- /!\ do not modify above this line -->
 
-# hr
+# HR modules
 
-TODO: add repo description.
+Set of general modules related to HR management
 
 <!-- /!\ do not modify below this line -->
 
@@ -28,7 +29,7 @@ addon | version | maintainers | summary
 [hr_department_code](hr_department_code/) | 14.0.1.0.0 |  | HR department code
 [hr_employee_age](hr_employee_age/) | 14.0.1.0.0 |  | Age field for employee
 [hr_employee_birth_name](hr_employee_birth_name/) | 14.0.1.0.0 |  | Employee Birth Name
-[hr_employee_calendar_planning](hr_employee_calendar_planning/) | 14.0.1.3.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Employee Calendar Planning
+[hr_employee_calendar_planning](hr_employee_calendar_planning/) | 14.0.1.3.1 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Employee Calendar Planning
 [hr_employee_digitized_signature](hr_employee_digitized_signature/) | 14.0.1.0.0 | [![newtratip](https://github.com/newtratip.png?size=30px)](https://github.com/newtratip) | Employee Digitized Signature
 [hr_employee_firstname](hr_employee_firstname/) | 14.0.3.0.0 |  | Adds First Name to Employee
 [hr_employee_id](hr_employee_id/) | 14.0.1.0.0 |  | Employee ID
