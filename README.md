@@ -25,7 +25,9 @@ addon | version | maintainers | summary
 [hr_contract_currency](hr_contract_currency/) | 14.0.1.0.0 |  | Employee's contract currency
 [hr_contract_multi_job](hr_contract_multi_job/) | 14.0.1.0.0 |  | HR Contract Multi Jobs
 [hr_contract_reference](hr_contract_reference/) | 14.0.1.0.0 |  | HR Contract Reference
+[hr_contract_type](hr_contract_type/) | 14.0.1.0.0 | [![etobella](https://github.com/etobella.png?size=30px)](https://github.com/etobella) | Add a Type for Contracts
 [hr_course](hr_course/) | 14.0.3.0.0 |  | This module allows your to manage employee's training courses
+[hr_course_survey](hr_course_survey/) | 14.0.1.0.0 |  | Evaluate a course using a Schedule
 [hr_department_code](hr_department_code/) | 14.0.1.0.0 |  | HR department code
 [hr_employee_age](hr_employee_age/) | 14.0.1.0.0 |  | Age field for employee
 [hr_employee_birth_name](hr_employee_birth_name/) | 14.0.1.0.0 |  | Employee Birth Name
@@ -35,6 +37,7 @@ addon | version | maintainers | summary
 [hr_employee_id](hr_employee_id/) | 14.0.1.0.0 |  | Employee ID
 [hr_employee_lastnames](hr_employee_lastnames/) | 14.0.3.0.0 |  | Split Name in First Name, Father's Last Name and Mother's Last Name
 [hr_employee_medical_examination](hr_employee_medical_examination/) | 14.0.1.0.0 |  | Adds information about employee's medical examinations
+[hr_employee_partner_external](hr_employee_partner_external/) | 14.0.1.0.0 |  | Associate an external Partner to Employee
 [hr_employee_phone_extension](hr_employee_phone_extension/) | 14.0.1.0.0 |  | Employee Phone Extension
 [hr_employee_ppe](hr_employee_ppe/) | 14.0.1.0.0 | [![marcelsavegnago](https://github.com/marcelsavegnago.png?size=30px)](https://github.com/marcelsavegnago) [![eduaparicio](https://github.com/eduaparicio.png?size=30px)](https://github.com/eduaparicio) | Personal Protective Equipment (PPE) Management
 [hr_employee_relative](hr_employee_relative/) | 14.0.1.0.0 |  | Allows storing information about employee's family
@@ -46,6 +49,7 @@ addon | version | maintainers | summary
 [hr_org_chart_overview](hr_org_chart_overview/) | 14.0.1.0.0 |  | Organizational Chart Overview
 [hr_period](hr_period/) | 14.0.1.0.0 |  | Add payroll periods
 [hr_personal_equipment_request](hr_personal_equipment_request/) | 14.0.1.0.0 |  | This addon allows to manage employee personal equipment
+[hr_personal_equipment_stock](hr_personal_equipment_stock/) | 14.0.1.0.0 |  | This addon allows to integrate hr_personal_equipment_request with stock
 [hr_recruitment_notification](hr_recruitment_notification/) | 14.0.1.0.0 | [![joao-p-marques](https://github.com/joao-p-marques.png?size=30px)](https://github.com/joao-p-marques) | Configure automatic notifications for new applications
 
 [//]: # (end addons)
