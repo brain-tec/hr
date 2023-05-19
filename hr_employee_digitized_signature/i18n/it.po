@@ -1,6 +1,6 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* hr_contract_employee_calendar_planning
+# 	* hr_employee_digitized_signature
 #
 msgid ""
 msgstr ""
@@ -16,7 +16,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.16.4\n"
 
-#. module: hr_contract_employee_calendar_planning
-#: model:ir.model,name:hr_contract_employee_calendar_planning.model_hr_contract
-msgid "Employee Contract"
-msgstr "Contratto dipendente"
+#. module: hr_employee_digitized_signature
+#: model:ir.model,name:hr_employee_digitized_signature.model_hr_employee
+msgid "Employee"
+msgstr "Dipendente"
+
+#. module: hr_employee_digitized_signature
+#: model:ir.model.fields,field_description:hr_employee_digitized_signature.field_hr_employee__signature
+msgid "Signature"
+msgstr "Firma"
