@@ -1,6 +1,6 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* hr_recruitment_notification
+# 	* hr_contract_currency
 #
 msgid ""
 msgstr ""
@@ -16,12 +16,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.17\n"
 
-#. module: hr_recruitment_notification
-#: model:mail.message.subtype,description:hr_recruitment_notification.mt_hr_applicant_new
-msgid "Applicant created"
-msgstr "Candidato creato"
+#. module: hr_contract_currency
+#: model:ir.model,name:hr_contract_currency.model_hr_contract
+msgid "Contract"
+msgstr "Contratto"
 
-#. module: hr_recruitment_notification
-#: model:mail.message.subtype,name:hr_recruitment_notification.mt_hr_applicant_new
-msgid "New Applicant"
-msgstr "Nuovo candidato"
+#. module: hr_contract_currency
+#: model:ir.model.fields,field_description:hr_contract_currency.field_hr_contract__currency_id
+msgid "Currency"
+msgstr "Valuta"
