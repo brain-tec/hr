@@ -10,6 +10,7 @@ setuptools.setup(
     install_requires=[
         'odoo-addon-hr_course>=16.0dev,<16.1dev',
         'odoo-addon-hr_employee_age>=16.0dev,<16.1dev',
+        'odoo-addon-hr_employee_birthday_mail>=16.0dev,<16.1dev',
         'odoo-addon-hr_employee_digitized_signature>=16.0dev,<16.1dev',
         'odoo-addon-hr_employee_firstname>=16.0dev,<16.1dev',
         'odoo-addon-hr_employee_lastnames>=16.0dev,<16.1dev',
@@ -18,6 +19,7 @@ setuptools.setup(
         'odoo-addon-hr_employee_phone_extension>=16.0dev,<16.1dev',
         'odoo-addon-hr_employee_relative>=16.0dev,<16.1dev',
         'odoo-addon-hr_employee_ssn>=16.0dev,<16.1dev',
+        'odoo-addon-hr_holidays_settings>=16.0dev,<16.1dev',
         'odoo-addon-hr_personal_equipment_request>=16.0dev,<16.1dev',
     ],
     classifiers=[

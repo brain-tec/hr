@@ -21,8 +21,9 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[hr_course](hr_course/) | 16.0.1.1.0 |  | This module allows your to manage employee's training courses
+[hr_course](hr_course/) | 16.0.1.1.1 |  | This module allows your to manage employee's training courses
 [hr_employee_age](hr_employee_age/) | 16.0.1.0.0 |  | Age field for employee
+[hr_employee_birthday_mail](hr_employee_birthday_mail/) | 16.0.1.0.0 |  | Automating birthday mail messages and fostering for a positive work environment.
 [hr_employee_digitized_signature](hr_employee_digitized_signature/) | 16.0.1.0.0 | [![newtratip](https://github.com/newtratip.png?size=30px)](https://github.com/newtratip) | Employee Digitized Signature
 [hr_employee_firstname](hr_employee_firstname/) | 16.0.1.0.1 |  | Adds First Name to Employee
 [hr_employee_lastnames](hr_employee_lastnames/) | 16.0.1.0.1 |  | Split Name in First Name, Father's Last Name and Mother's Last Name
@@ -31,6 +32,7 @@ addon | version | maintainers | summary
 [hr_employee_phone_extension](hr_employee_phone_extension/) | 16.0.1.0.0 |  | Employee Phone Extension
 [hr_employee_relative](hr_employee_relative/) | 16.0.1.0.0 |  | Allows storing information about employee's family
 [hr_employee_ssn](hr_employee_ssn/) | 16.0.1.0.0 |  | View/edit employee's SSN & SIN fields
+[hr_holidays_settings](hr_holidays_settings/) | 16.0.1.0.0 |  | Enables Settings Form for HR Holidays.
 [hr_personal_equipment_request](hr_personal_equipment_request/) | 16.0.1.0.0 |  | This addon allows to manage employee personal equipment
 
 [//]: # (end addons)
