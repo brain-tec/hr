@@ -21,7 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[hr_contract_employee_calendar_planning](hr_contract_employee_calendar_planning/) | 16.0.1.0.0 |  | Hr Contract Employee Calendar Planning
+[hr_contract_employee_calendar_planning](hr_contract_employee_calendar_planning/) | 16.0.1.0.1 |  | Hr Contract Employee Calendar Planning
 [hr_contract_reference](hr_contract_reference/) | 16.0.1.0.0 |  | HR Contract Reference
 [hr_course](hr_course/) | 16.0.1.1.1 |  | This module allows your to manage employee's training courses
 [hr_course_survey](hr_course_survey/) | 16.0.1.0.0 |  | Evaluate a course using a Schedule
