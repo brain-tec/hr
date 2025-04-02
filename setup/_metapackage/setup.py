@@ -36,6 +36,7 @@ setuptools.setup(
         'odoo-addon-hr_employee_ssn>=16.0dev,<16.1dev',
         'odoo-addon-hr_holidays_team_manager>=16.0dev,<16.1dev',
         'odoo-addon-hr_job_category>=16.0dev,<16.1dev',
+        'odoo-addon-hr_org_chart_overview>=16.0dev,<16.1dev',
         'odoo-addon-hr_personal_equipment_request>=16.0dev,<16.1dev',
         'odoo-addon-hr_personal_equipment_request_tier_validation>=16.0dev,<16.1dev',
         'odoo-addon-hr_personal_equipment_stock>=16.0dev,<16.1dev',
