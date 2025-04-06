@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-03-06 10:36+0000\n"
+"PO-Revision-Date: 2025-04-05 11:06+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.17\n"
+"X-Generator: Weblate 5.10.2\n"
 
 #. module: hr_course
 #: model:ir.model.fields.selection,name:hr_course.selection__hr_course_attendee__result__absent
@@ -36,25 +36,25 @@ msgstr "Attivo"
 #: model:ir.model.fields,field_description:hr_course.field_hr_course__activity_ids
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_schedule__activity_ids
 msgid "Activities"
-msgstr ""
+msgstr "Attività"
 
 #. module: hr_course
 #: model:ir.model.fields,field_description:hr_course.field_hr_course__activity_exception_decoration
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_schedule__activity_exception_decoration
 msgid "Activity Exception Decoration"
-msgstr ""
+msgstr "Decorazione eccezione attività"
 
 #. module: hr_course
 #: model:ir.model.fields,field_description:hr_course.field_hr_course__activity_state
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_schedule__activity_state
 msgid "Activity State"
-msgstr ""
+msgstr "Stato attività"
 
 #. module: hr_course
 #: model:ir.model.fields,field_description:hr_course.field_hr_course__activity_type_icon
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_schedule__activity_type_icon
 msgid "Activity Type Icon"
-msgstr ""
+msgstr "Icona tipo attività"
 
 #. module: hr_course
 #: model_terms:ir.ui.view,arch_db:hr_course.hr_course_schedule_form_view
@@ -306,7 +306,7 @@ msgstr "Seguito da (partner)"
 #: model:ir.model.fields,help:hr_course.field_hr_course__activity_type_icon
 #: model:ir.model.fields,help:hr_course.field_hr_course_schedule__activity_type_icon
 msgid "Font awesome icon e.g. fa-tasks"
-msgstr ""
+msgstr "Icona Font Awesome es. fa-tasks"
 
 #. module: hr_course
 #: model:ir.model.fields,field_description:hr_course.field_hr_course__has_message
@@ -331,13 +331,13 @@ msgstr "ID"
 #: model:ir.model.fields,field_description:hr_course.field_hr_course__activity_exception_icon
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_schedule__activity_exception_icon
 msgid "Icon"
-msgstr ""
+msgstr "Icona"
 
 #. module: hr_course
 #: model:ir.model.fields,help:hr_course.field_hr_course__activity_exception_icon
 #: model:ir.model.fields,help:hr_course.field_hr_course_schedule__activity_exception_icon
 msgid "Icon to indicate an exception activity."
-msgstr ""
+msgstr "Icona per indicare un'attività eccezione."
 
 #. module: hr_course
 #: model:ir.model.fields,help:hr_course.field_hr_course__message_needaction
@@ -423,7 +423,7 @@ msgstr "Messaggi"
 #: model:ir.model.fields,field_description:hr_course.field_hr_course__my_activity_date_deadline
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_schedule__my_activity_date_deadline
 msgid "My Activity Deadline"
-msgstr ""
+msgstr "Scadenza mia attività"
 
 #. module: hr_course
 #: model:ir.model.fields,field_description:hr_course.field_hr_course__name
@@ -436,25 +436,25 @@ msgstr "Nome"
 #: model:ir.model.fields,field_description:hr_course.field_hr_course__activity_calendar_event_id
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_schedule__activity_calendar_event_id
 msgid "Next Activity Calendar Event"
-msgstr ""
+msgstr "Evento calendario attività successiva"
 
 #. module: hr_course
 #: model:ir.model.fields,field_description:hr_course.field_hr_course__activity_date_deadline
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_schedule__activity_date_deadline
 msgid "Next Activity Deadline"
-msgstr ""
+msgstr "Scadenza prossima attività"
 
 #. module: hr_course
 #: model:ir.model.fields,field_description:hr_course.field_hr_course__activity_summary
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_schedule__activity_summary
 msgid "Next Activity Summary"
-msgstr ""
+msgstr "Riepilogo prossima attività"
 
 #. module: hr_course
 #: model:ir.model.fields,field_description:hr_course.field_hr_course__activity_type_id
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_schedule__activity_type_id
 msgid "Next Activity Type"
-msgstr ""
+msgstr "Tipo prossima attività"
 
 #. module: hr_course
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_schedule__note
@@ -530,7 +530,7 @@ msgstr "Valuta il corso"
 #: model:ir.model.fields,field_description:hr_course.field_hr_course__activity_user_id
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_schedule__activity_user_id
 msgid "Responsible User"
-msgstr ""
+msgstr "Utente responsabile"
 
 #. module: hr_course
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_attendee__result
@@ -568,6 +568,10 @@ msgid ""
 "Today: Activity date is today\n"
 "Planned: Future activities."
 msgstr ""
+"Stato in base alle attività\n"
+"Scaduto: la data richiesta è trascorsa\n"
+"Oggi: la data attività è oggi\n"
+"Pianificato: attività future."
 
 #. module: hr_course
 #. odoo-python
@@ -585,7 +589,7 @@ msgstr "Azienda formatrice"
 #: model:ir.model.fields,help:hr_course.field_hr_course__activity_exception_decoration
 #: model:ir.model.fields,help:hr_course.field_hr_course_schedule__activity_exception_decoration
 msgid "Type of the exception activity on record."
-msgstr ""
+msgstr "Tipo di attività eccezione sul record."
 
 #. module: hr_course
 #: model:ir.model.fields.selection,name:hr_course.selection__hr_course_schedule__state__waiting_attendees
