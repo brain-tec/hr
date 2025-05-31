@@ -43,6 +43,7 @@ setuptools.setup(
         'odoo-addon-hr_personal_equipment_variant_configurator>=16.0dev,<16.1dev',
         'odoo-addon-hr_professional_category>=16.0dev,<16.1dev',
         'odoo-addon-hr_recruitment_torecruit>=16.0dev,<16.1dev',
+        'odoo-addon-resource_multi_week_calendar>=16.0dev,<16.1dev',
     ],
     classifiers=[
         'Programming Language :: Python',

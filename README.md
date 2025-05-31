@@ -56,6 +56,7 @@ addon | version | maintainers | summary
 [hr_personal_equipment_variant_configurator](hr_personal_equipment_variant_configurator/) | 16.0.1.0.0 |  | Manage variants of personal equipment
 [hr_professional_category](hr_professional_category/) | 16.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | HR Professional Category
 [hr_recruitment_torecruit](hr_recruitment_torecruit/) | 16.0.1.1.0 |  | Age field for employee
+[resource_multi_week_calendar](resource_multi_week_calendar/) | 16.0.1.0.0 | [![carmenbianca](https://github.com/carmenbianca.png?size=30px)](https://github.com/carmenbianca) | Allow a calendar to alternate between multiple weeks.
 
 [//]: # (end addons)
 
