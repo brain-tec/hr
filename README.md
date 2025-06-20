@@ -38,7 +38,7 @@ addon | version | maintainers | summary
 [hr_employee_group_overview_readonly](hr_employee_group_overview_readonly/) | 16.0.1.0.0 |  | HR Employee Group Overview Readonly
 [hr_employee_id](hr_employee_id/) | 16.0.1.0.0 |  | Employee ID
 [hr_employee_lastnames](hr_employee_lastnames/) | 16.0.1.0.2 | <a href='https://github.com/luisg123v'><img src='https://github.com/luisg123v.png' width='32' height='32' style='border-radius:50%;' alt='luisg123v'/></a> | Split Name in First Name, Father's Last Name and Mother's Last Name
-[hr_employee_medical_examination](hr_employee_medical_examination/) | 16.0.1.0.0 |  | Adds information about employee's medical examinations
+[hr_employee_medical_examination](hr_employee_medical_examination/) | 16.0.1.0.1 |  | Adds information about employee's medical examinations
 [hr_employee_partner_external](hr_employee_partner_external/) | 16.0.1.0.0 |  | Associate an external Partner to Employee
 [hr_employee_phone_extension](hr_employee_phone_extension/) | 16.0.1.0.0 |  | Employee Phone Extension
 [hr_employee_phone_pin](hr_employee_phone_pin/) | 16.0.1.0.0 | <a href='https://github.com/arielbarreiros96'><img src='https://github.com/arielbarreiros96.png' width='32' height='32' style='border-radius:50%;' alt='arielbarreiros96'/></a> | Employee Phone PIN
