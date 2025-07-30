@@ -21,9 +21,9 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[hr_contract_employee_calendar_planning](hr_contract_employee_calendar_planning/) | 16.0.1.0.1 |  | Hr Contract Employee Calendar Planning
+[hr_contract_employee_calendar_planning](hr_contract_employee_calendar_planning/) | 16.0.1.0.2 |  | Hr Contract Employee Calendar Planning
 [hr_contract_multi_job](hr_contract_multi_job/) | 16.0.1.0.0 |  | HR Contract Multi Jobs
-[hr_contract_reference](hr_contract_reference/) | 16.0.1.0.0 |  | HR Contract Reference
+[hr_contract_reference](hr_contract_reference/) | 16.0.1.0.1 |  | HR Contract Reference
 [hr_course](hr_course/) | 16.0.1.1.2 |  | This module allows your to manage employee's training courses
 [hr_course_survey](hr_course_survey/) | 16.0.1.0.0 |  | Evaluate a course using a Schedule
 [hr_department_code](hr_department_code/) | 16.0.1.0.0 |  | HR department code
@@ -36,7 +36,7 @@ addon | version | maintainers | summary
 [hr_employee_document_from_applicant](hr_employee_document_from_applicant/) | 16.0.1.0.0 | <a href='https://github.com/ursais'><img src='https://github.com/ursais.png' width='32' height='32' style='border-radius:50%;' alt='ursais'/></a> | HR Employee Document from Applicant
 [hr_employee_firstname](hr_employee_firstname/) | 16.0.1.0.3 | <a href='https://github.com/Savoir-faire Linux'><img src='https://github.com/Savoir-faire Linux.png' width='32' height='32' style='border-radius:50%;' alt='Savoir-faire Linux'/></a> <a href='https://github.com/luisg123v'><img src='https://github.com/luisg123v.png' width='32' height='32' style='border-radius:50%;' alt='luisg123v'/></a> | Adds First Name to Employee
 [hr_employee_group_overview_readonly](hr_employee_group_overview_readonly/) | 16.0.1.0.0 |  | HR Employee Group Overview Readonly
-[hr_employee_id](hr_employee_id/) | 16.0.1.0.0 |  | Employee ID
+[hr_employee_id](hr_employee_id/) | 16.0.1.0.1 |  | Employee ID
 [hr_employee_language](hr_employee_language/) | 16.0.1.0.0 |  | HR Employee Language
 [hr_employee_lastnames](hr_employee_lastnames/) | 16.0.1.0.2 | <a href='https://github.com/luisg123v'><img src='https://github.com/luisg123v.png' width='32' height='32' style='border-radius:50%;' alt='luisg123v'/></a> | Split Name in First Name, Father's Last Name and Mother's Last Name
 [hr_employee_medical_examination](hr_employee_medical_examination/) | 16.0.1.0.1 |  | Adds information about employee's medical examinations
@@ -49,7 +49,7 @@ addon | version | maintainers | summary
 [hr_employee_service_contract](hr_employee_service_contract/) | 16.0.1.0.0 |  | Employee service information & duration based on employee's contracts
 [hr_employee_ssn](hr_employee_ssn/) | 16.0.1.0.0 |  | View/edit employee's SSN & SIN fields
 [hr_holidays_team_manager](hr_holidays_team_manager/) | 16.0.1.0.0 |  | HR Holidays Team Manager
-[hr_job_category](hr_job_category/) | 16.0.1.0.1 |  | Adds tags to employee through contract and job position
+[hr_job_category](hr_job_category/) | 16.0.1.0.2 |  | Adds tags to employee through contract and job position
 [hr_org_chart_overview](hr_org_chart_overview/) | 16.0.1.0.0 |  | Organizational Chart Overview
 [hr_personal_equipment_request](hr_personal_equipment_request/) | 16.0.1.0.0 |  | This addon allows to manage employee personal equipment
 [hr_personal_equipment_request_tier_validation](hr_personal_equipment_request_tier_validation/) | 16.0.1.0.1 |  | Enables tier validation from hr.personal.equipment.request
