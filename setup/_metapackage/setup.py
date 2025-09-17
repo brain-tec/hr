@@ -22,6 +22,7 @@ setuptools.setup(
         'odoo-addon-hr_employee_document>=16.0dev,<16.1dev',
         'odoo-addon-hr_employee_document_from_applicant>=16.0dev,<16.1dev',
         'odoo-addon-hr_employee_firstname>=16.0dev,<16.1dev',
+        'odoo-addon-hr_employee_firstname_partner_firstname>=16.0dev,<16.1dev',
         'odoo-addon-hr_employee_group_overview_readonly>=16.0dev,<16.1dev',
         'odoo-addon-hr_employee_id>=16.0dev,<16.1dev',
         'odoo-addon-hr_employee_language>=16.0dev,<16.1dev',
