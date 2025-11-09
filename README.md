@@ -21,6 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
+[hr_contract_employee_calendar_planning](hr_contract_employee_calendar_planning/) | 18.0.1.0.0 |  | Hr Contract Employee Calendar Planning
 [hr_contract_reference](hr_contract_reference/) | 18.0.1.0.0 |  | HR Contract Reference
 [hr_contract_renew](hr_contract_renew/) | 18.0.1.0.0 |  | Generate a new contract using an existing contract as a base
 [hr_course](hr_course/) | 18.0.1.0.0 |  | This module allows your to manage employee's training courses
@@ -38,6 +39,7 @@ addon | version | maintainers | summary
 [hr_employee_service](hr_employee_service/) | 18.0.1.0.0 |  | Employee service information & duration
 [hr_employee_service_contract](hr_employee_service_contract/) | 18.0.1.0.0 |  | Employee service information & duration based on employee's contracts
 [hr_employee_ssn](hr_employee_ssn/) | 18.0.1.0.0 |  | View/edit employee's SIN field
+[hr_personal_equipment_request](hr_personal_equipment_request/) | 18.0.1.0.0 |  | This addon allows to manage employee personal equipment
 [hr_professional_category](hr_professional_category/) | 18.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | HR Professional Category
 
 [//]: # (end addons)
