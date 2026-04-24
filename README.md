@@ -23,6 +23,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [hr_appraisal_oca](hr_appraisal_oca/) | 16.0.1.0.0 | <a href='https://github.com/ebauza'><img src='https://github.com/ebauza.png' width='32' height='32' style='border-radius:50%;' alt='ebauza'/></a> <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | Module for managing employee appraisals
+[hr_contract_document](hr_contract_document/) | 16.0.1.0.0 |  | Documents attached to the contact
 [hr_contract_employee_calendar_planning](hr_contract_employee_calendar_planning/) | 16.0.1.0.2 |  | Hr Contract Employee Calendar Planning
 [hr_contract_multi_job](hr_contract_multi_job/) | 16.0.1.0.0 |  | HR Contract Multi Jobs
 [hr_contract_reference](hr_contract_reference/) | 16.0.1.0.1 |  | HR Contract Reference

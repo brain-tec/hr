@@ -9,6 +9,7 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo-addon-hr_appraisal_oca>=16.0dev,<16.1dev',
+        'odoo-addon-hr_contract_document>=16.0dev,<16.1dev',
         'odoo-addon-hr_contract_employee_calendar_planning>=16.0dev,<16.1dev',
         'odoo-addon-hr_contract_multi_job>=16.0dev,<16.1dev',
         'odoo-addon-hr_contract_reference>=16.0dev,<16.1dev',
